@@ -1,3 +1,12 @@
 path
 first-detection/photos
 first-detection/out
+models
+out
+data/aligned/test/Matteo
+data/aligned/train/Matteo
+data/enroll/Matteo
+data/enroll_crops/Matteo
+data/raw/test/Matteo
+data/raw/train/Matteo
+photos
